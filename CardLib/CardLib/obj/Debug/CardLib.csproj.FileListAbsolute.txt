@@ -1,0 +1,7 @@
+D:\Schoolwork\Durham (2017)\Semester 4\OOP 4200-01\Final Project\Final Project GUI\CardLib\CardLib\bin\Debug\CardLib.dll
+D:\Schoolwork\Durham (2017)\Semester 4\OOP 4200-01\Final Project\Final Project GUI\CardLib\CardLib\bin\Debug\CardLib.pdb
+D:\Schoolwork\Durham (2017)\Semester 4\OOP 4200-01\Final Project\Final Project GUI\CardLib\CardLib\obj\Debug\CardLib.csprojAssemblyReference.cache
+D:\Schoolwork\Durham (2017)\Semester 4\OOP 4200-01\Final Project\Final Project GUI\CardLib\CardLib\obj\Debug\CardLib.Properties.Resources.resources
+D:\Schoolwork\Durham (2017)\Semester 4\OOP 4200-01\Final Project\Final Project GUI\CardLib\CardLib\obj\Debug\CardLib.csproj.GenerateResource.cache
+D:\Schoolwork\Durham (2017)\Semester 4\OOP 4200-01\Final Project\Final Project GUI\CardLib\CardLib\obj\Debug\CardLib.dll
+D:\Schoolwork\Durham (2017)\Semester 4\OOP 4200-01\Final Project\Final Project GUI\CardLib\CardLib\obj\Debug\CardLib.pdb
